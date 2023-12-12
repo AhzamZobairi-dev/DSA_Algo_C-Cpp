@@ -1,0 +1,27 @@
+
+
+In this part we will discuss beriefly about some essential concept of C and C++ programing
+that will help us in this course later on.
+
+Also we will get familiar with style of coding as well
+
+
+                            TOPICS TO BE COVERED
+
+Arrays
+Structures
+Pointers
+Reference
+Parameter Passing
+Classes
+Constructors
+Templates
+
+
+                            Memory Map 
+
+It has three part :- 
+
+Heap
+Stack
+Code
